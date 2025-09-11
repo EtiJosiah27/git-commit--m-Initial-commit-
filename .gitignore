@@ -1,0 +1,23 @@
+# Ignore your config file with secrets
+config.txt
+
+# Ignore build artifacts
+/build/
+*.o
+*.out
+*.exe
+
+# macOS
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+.env
+Gifs
